@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ray. Welcome to my spot called @datawithray
+- 👋 Hi, I’m Ray. Welcome to my spot, datawithray 🙂
 - 👀 I’m interested in SQL, Excel/ GoogleSheets, Python and Microsoft PowerBi 
 - 🌱 I’m currently learning R and Tableau
 - 💞️ I’m looking to collaborate on dashboard creation and analysis with python
